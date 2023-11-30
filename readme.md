@@ -35,7 +35,7 @@ Office: **1156 TMCB**
 | 3:00  | Kai            |                                          | Kai            | Jack                                     | Kai         | 
 | 4:00  | Abel, Kai      | Jack, Kai                                | Abel, Kai      | Jack, Kai                                | Abel        | 
 | 5:00  | Abel, Hunter   | Jack                                     | Abel, Hunter   | Jack                                     | Abel        | 
-| 6:00  | Elijah         | Elijah                                   | Elijah,Hunter  | Elijah                                   | Abel        | 
+| 6:00  | Elijah         | Elijah                                   | Elijah         | Elijah                                   | Abel        | 
 | 7:00  | McKayla (Remote) | McKayla (Remote)                     | McKayla (Remote) | McKayla (Remote)                         |         |
 | 8:00  | McKayla (Remote) | McKayla (Remote)                     | McKayla (Remote) | McKayla (Remote)                         |         | 
 
@@ -104,7 +104,7 @@ Projects are submitted via Gradescope. **Access Gradescope via the links provide
 ### Late Policy
 
 
-All homework assignments are due at by **8:00am** on the
+All homework assignments are due at by **11:59pm** on the
  [date indicated](schedule.md). All programming assignments and design experiences 
  are due electronically by 11:59:00PM on the [date indicated](schedule.md).
 
