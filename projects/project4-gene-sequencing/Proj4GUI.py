@@ -111,6 +111,8 @@ class Proj4GUI( QMainWindow ):
 			results = self.processed_results[i][j]
 			self.seq1_chars.setText( '{}'.format(results['seqi_first100']) )
 			self.seq2_chars.setText( '{}'.format(results['seqj_first100']) )
+			print(i+1, ": ", results['seqi_first100'])
+			print(j+1, ": ", results['seqj_first100'])
 
 	def loadSequencesFromFile( self ):
 		FILENAME = 'genomes.txt'
